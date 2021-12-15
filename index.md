@@ -1,5 +1,5 @@
 ---
-title: "Example"
+title: "Finance Research Databases"
 ---
 
 ### University of Delaware, Lerner College of Business & Economics
