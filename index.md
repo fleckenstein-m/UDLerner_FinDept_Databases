@@ -1,7 +1,7 @@
 ## Research Databases
 #### University of Delaware, Lerner College of Business And Economics
 #### Department of Finance
-<br />
+
 
 ##### [S&P Capital IQ](https://www.capitaliq.com) 
 - Finance Department Laptop, Trading Center
