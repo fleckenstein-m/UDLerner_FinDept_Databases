@@ -2,31 +2,31 @@
 title: "Finance Research Databases"
 ---
 
-##### [S&P Capital IQ](https://www.capitaliq.com) 
+#### [S&P Capital IQ](https://www.capitaliq.com) 
 - Finance Department Laptop, Trading Center
 
-##### [SDC – New Issues and Mergers & Acquisitions](https://www.refinitiv.com/en/products/sdc-platinum-financial-securities)
+#### [SDC – New Issues and Mergers & Acquisitions](https://www.refinitiv.com/en/products/sdc-platinum-financial-securities)
 - Finance Department Laptop, Trading Center
 
-##### [Bloomberg](https://www.bloomberg.com) 
+#### [Bloomberg](https://www.bloomberg.com) 
 - Finance Department Laptop, Trading Center
 
-##### [Bloomberg BNA/Bloomberg Law](https://pro.bloomberglaw.com/request-demo-legal-research/?trackingcode=BLAW206632&utm_medium=paidsearch&utm_source=google&gclid=EAIaIQobChMI8NiH75rm9AIVBuXjBx0SeQriEAAYASAAEgL4A_D_BwE&gclsrc=aw.ds) 
+#### [Bloomberg BNA/Bloomberg Law](https://pro.bloomberglaw.com/request-demo-legal-research/?trackingcode=BLAW206632&utm_medium=paidsearch&utm_source=google&gclid=EAIaIQobChMI8NiH75rm9AIVBuXjBx0SeQriEAAYASAAEgL4A_D_BwE&gclsrc=aw.ds) 
 - Trading Center, 026 Purnell Lab
 
-##### [Factset](https://www.factset.com/)
+#### [Factset](https://www.factset.com/)
 - Trading Center
 
-##### [Ravenpack](https://www.ravenpack.com/) 
+#### [Ravenpack](https://www.ravenpack.com/) 
 - Individual licenses
 
-##### [Reuters Eikon/Datastream](https://eikon.thomsonreuters.com/index.html) 
+#### [Reuters Eikon/Datastream](https://eikon.thomsonreuters.com/index.html) 
 - Finance Department Laptop
 
-##### [Reuters Datastream (via Reuters Refinitiv)](https://www.refinitiv.com/en/products/datastream-macroeconomic-analysis) 
+#### [Reuters Datastream (via Reuters Refinitiv)](https://www.refinitiv.com/en/products/datastream-macroeconomic-analysis) 
 - Finance Department Laptop
 
-##### [UNEB](https://uneb.ac.ug/)
+#### [UNEB](https://uneb.ac.ug/)
 - Individual licenses
 
 <br/>
