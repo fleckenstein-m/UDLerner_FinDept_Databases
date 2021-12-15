@@ -1,3 +1,7 @@
+---
+title: "Example"
+---
+
 ### University of Delaware, Lerner College of Business & Economics
 ### Department of Finance Research Databases  
 
