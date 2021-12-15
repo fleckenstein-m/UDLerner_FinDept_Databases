@@ -1,4 +1,5 @@
-### Department of Finance Research Databases&nbsp; Lerner College of Business & Economics University of Delaware
+### Department of Finance Research Databases  
+  Lerner College of Business & Economics University of Delaware
 
 <br/><br/>
 
