@@ -72,7 +72,7 @@
 
 [^1]: The list below has some services that supply multiple databases. For example, WRDS has about 30 different sections, some of which are listed separately (e.g., CRSP) and others that are not, but are paid for under other subscriptions (e.g. Dow Jones, CBOE Indexes, 13F).
 
-
+<br/><br/>
 
 #### [University of Delaware Library](https://library.udel.edu/)
 - [BI/INFORM Global](https://library.udel.edu/static/proxy.php?http://search.proquest.com/abiglobal/advanced?accountid=10457)
