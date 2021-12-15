@@ -7,7 +7,7 @@
 - Finance Department Laptop, Trading Center
 ##### [SDC – New Issues and Mergers & Acquisitions](https://www.refinitiv.com/en/products/sdc-platinum-financial-securities)
 - Finance Department Laptop, Trading Center
-#####[Bloomberg](https://www.bloomberg.com) 
+##### [Bloomberg](https://www.bloomberg.com) 
 - Finance Department Laptop, Trading Center
 ##### [Bloomberg BNA/Bloomberg Law](https://pro.bloomberglaw.com/request-demo-legal-research/?trackingcode=BLAW206632&utm_medium=paidsearch&utm_source=google&gclid=EAIaIQobChMI8NiH75rm9AIVBuXjBx0SeQriEAAYASAAEgL4A_D_BwE&gclsrc=aw.ds) 
 - Trading Center, 026 Purnell Lab
