@@ -1,29 +1,173 @@
-## Welcome to GitHub Pages
+## Research Databases
+#### University of Delaware, Lerner College of Business And Economics
+#### Department of Finance
+<br />
 
-You can use the [editor on GitHub](https://github.com/fleckenstein-m/UDLerner_FinDept_Databases/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+##### [S&P Capital IQ](https://www.capitaliq.com) 
+- Finance Department Laptop, Trading Center
+##### [SDC – New Issues and Mergers & Acquisitions](https://www.refinitiv.com/en/products/sdc-platinum-financial-securities)
+- Finance Department Laptop, Trading Center
+#####[Bloomberg](https://www.bloomberg.com) 
+- Finance Department Laptop, Trading Center
+##### [Bloomberg BNA/Bloomberg Law](https://pro.bloomberglaw.com/request-demo-legal-research/?trackingcode=BLAW206632&utm_medium=paidsearch&utm_source=google&gclid=EAIaIQobChMI8NiH75rm9AIVBuXjBx0SeQriEAAYASAAEgL4A_D_BwE&gclsrc=aw.ds) 
+- Trading Center, 026 Purnell Lab
+##### [Factset](https://www.factset.com/)
+– Trading Center
+##### [Ravenpack](https://www.ravenpack.com/) 
+- Individual licenses
+##### [Reuters Eikon/Datastream](https://eikon.thomsonreuters.com/index.html) 
+– Finance Department Laptop
+##### [Reuters Datastream (via Reuters Refinitiv)](https://www.refinitiv.com/en/products/datastream-macroeconomic-analysis) 
+- Finance Department Laptop
+##### [UNEB](https://uneb.ac.ug/)
+- Individual licenses
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<br />
+#### [WRDS](https://wrds-www.wharton.upenn.edu/) (Wharton Research Data Services)[^1]
+- [Audit Analytics](https://wrds-www.wharton.upenn.edu/pages/get-data/audit-analytics/)
+- [Bank Regulatory](https://wrds-www.wharton.upenn.edu/pages/get-data/bank-regulatory/)
+- [Blockholders](https://wrds-www.wharton.upenn.edu/pages/get-data/blockholders/)
+- [CBOE Indexes](https://wrds-www.wharton.upenn.edu/pages/get-data/cboe-indexes/)
+- [Compustat - Capital IQ](https://wrds-www.wharton.upenn.edu/pages/get-data/compustat-capital-iq-standard-poors/)
+- [CRSP](https://wrds-www.wharton.upenn.edu/pages/get-data/center-research-security-prices-crsp/)
+- [DMEF Academic Data](https://wrds-www.wharton.upenn.edu/pages/get-data/direct-marketing-educational-foundation-dmef/)
+- [Fama-French Portfolios and Factors](https://wrds-www.wharton.upenn.edu/pages/get-data/fama-french-portfolios-and-factors/)
+- [Federal Judicial Center](https://wrds-www.wharton.upenn.edu/pages/get-data/federal-judicial-center/)
+- [Federal Reserve Bank Reports](https://wrds-www.wharton.upenn.edu/pages/get-data/federal-reserve-bank-reports/)
+- [Historical S&P/ Dow Jones Indices](https://wrds-www.wharton.upenn.edu/pages/get-data/dow-jones-averages-total-return-indexes/)
+- [Information Resources, Inc. (IRI)](https://wrds-www.wharton.upenn.edu/pages/get-data/information-resources-inc/)
+- [Macro Finance Society](https://wrds-www.wharton.upenn.edu/pages/get-data/macro-finance-society/)
+- [MSRB (Municipal Securities Rulemaking Board)](https://wrds-www.wharton.upenn.edu/pages/get-data/msrb-municipal-securities-rulemaking-board/)
+- [OTC Markets](https://wrds-www.wharton.upenn.edu/pages/get-data/otc-markets/)
+- [Penn World Tables](https://wrds-www.wharton.upenn.edu/pages/get-data/penn-world-tables/)
+- [Peters and Taylor Total Q](https://wrds-www.wharton.upenn.edu/pages/get-data/peters-and-taylor-total-q/)
+- [Philadelphia Stock Exchange (PHLX)](https://wrds-www.wharton.upenn.edu/pages/get-data/philadelphia-stock-exchange-phlx/)
+- [Research Quotient](https://wrds-www.wharton.upenn.edu/pages/get-data/research-quotient/)
+- [SEC Order Execution](https://wrds-www.wharton.upenn.edu/pages/get-data/sec-mandated-disclosure-order-execution-statistics/)
+- [NYSE Trade and Quote (TAQ) Database](https://wrds-www.wharton.upenn.edu/pages/get-data/nyse-trade-and-quote/)
+- [WRDS-Reuters DealScan](https://wrds-www.wharton.upenn.edu/pages/get-data/thomson-reuters/wrds-reuters-dealscan/)
+- [Institutional (13f) Holdings - S34](https://wrds-www.wharton.upenn.edu/pages/get-data/thomson-reuters/institutional-13f-holdings-s34/)
+- [TRACE](https://wrds-www.wharton.upenn.edu/pages/get-data/otc-corporate-bond-and-agency-debt-bond-transaction-data/)
+- [Beta Suite by WRDS](https://wrds-www.wharton.upenn.edu/pages/get-data/beta-suite-wrds/)
+- [Efficient Frontier by WRDS](https://wrds-www.wharton.upenn.edu/pages/get-data/efficient-frontier-wrds/)
+- [Financial Ratios Suite by WRDS](https://wrds-www.wharton.upenn.edu/pages/get-data/financial-ratios-suite-wrds/)
+- [Intraday Indicators by WRDS](https://wrds-www.wharton.upenn.edu/pages/get-data/intraday-indicators-wrds/)
+- [Subsidiary Data by WRDS](https://wrds-www.wharton.upenn.edu/pages/get-data/subsidiary-data-wrds/)
+- [WRDS European Short Data](https://wrds-www.wharton.upenn.edu/pages/get-data/wrds-european-short-data/)
+- [WRDS Factors](https://wrds-www.wharton.upenn.edu/pages/get-data/wrds-factors/)
+- [WRDS US Patents](https://wrds-www.wharton.upenn.edu/pages/get-data/wrds-us-patents/)
 
-### Markdown
+<br /><br />
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+[^1]: The list below has some services that supply multiple databases. For example, WRDS has about 30 different sections, some of which are listed separately (e.g., CRSP) and others that are not, but are paid for under other subscriptions (e.g. Dow Jones, CBOE Indexes, 13F).
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+#### [University of Delaware Library](https://library.udel.edu/)
+- [BI/INFORM Global](https://library.udel.edu/static/proxy.php?http://search.proquest.com/abiglobal/advanced?accountid=10457)
+  - [More info](https://library.udel.edu/databases/abi/)
+- [Business Collection](https://library.udel.edu/static/proxy.php?http://go.galegroup.com/ps/start.do?p=ITBC&u=udel_main&authCount=1)
+  - [More info](https://library.udel.edu/databases/businesscoll/)
+- [Business Insights: Global](https://library.udel.edu/static/proxy.php?http://infotrac.galegroup.com/itweb/udel_main?db=BIG)
+  - [More info](https://library.udel.edu/databases/big/)
+- [Business Source Premier](https://library.udel.edu/static/proxy.php?http://search.ebscohost.com/login.asp?profile=web&defaultdb=buh)
+  - [More info](https://library.udel.edu/databases/bsp/)
+- [Derwent Innovations Index](https://library.udel.edu/static/proxy.php?http://www.webofknowledge.com/DIIDW)
+  - [More info](https://library.udel.edu/databases/derwent/)
+- [EconLit](https://library.udel.edu/static/proxy.php?http://search.ebscohost.com/login.asp?profile=web&defaultdb=ecn)
+  - [More info](https://library.udel.edu/databases/econlit/)
+- [Euromonitor Passport](https://udel.idm.oclc.org/login?url=http://www.portal.euromonitor.com/Portal/Default.aspx)
+  - [More info](https://library.udel.edu/databases/passport/)
+- **[Global Financial Data](https://library.udel.edu/static/proxy.php?https://library.udel.edu/databases/global-financial-data/)**
+  - [More info](https://library.udel.edu/databases/global-financial-data/)
+- [Global Newsstream (formerly ProQuest Newsstand)](https://library.udel.edu/static/proxy.php?https://search.proquest.com/globalnews/advanced?accountid=10457)
+  - [More info](https://library.udel.edu/databases/pqglobalnews/)
+- [Historical Statistics of the United States](https://library.udel.edu/static/proxy.php?http://hsus.cambridge.org)
+  - [More info](https://library.udel.edu/databases/hsus/)
+- [IBISWorld Industry Research](https://library.udel.edu/static/proxy.php?https://www.ibisworld.com/)
+  - [More info](https://library.udel.edu/databases/ibisworld/)
+- [IMF Data Portal](https://library.udel.edu/static/proxy.php?http://data.imf.org)
+  - [More info](https://library.udel.edu/databases/imfdata/)
+- [Industry Norms and Key Business Ratios](https://library.udel.edu/static/proxy.php?http://www.mergentkbr.com)
+  - [More info](https://library.udel.edu/databases/kbr/)
+- [Industry Norms and Key Business Ratios Archive](https://library.udel.edu/static/proxy.php?http://www.mergentarchives.com)
+  - [More info](https://library.udel.edu/databases/kbrarchive/)
+- [InfoTrac Newsstand](https://library.udel.edu/static/proxy.php?http://infotrac.galegroup.com/itweb/udel_main?db=STND)
+  - [More info](https://library.udel.edu/databases/infotrac-newsstand/)
+- [International Monetary Fund (IMF) Data Portal](https://library.udel.edu/static/proxy.php?http://data.imf.org/)
+  - [More info](https://library.udel.edu/databases/imfdata/)
+- [Investext](https://library.udel.edu/static/proxy.php?http://www.mergentonline.com/investextsearch.php)
+  - [More info](https://library.udel.edu/databases/investext/)
+- [Key Business Ratios](https://library.udel.edu/static/proxy.php?http://www.mergentkbr.com)
+  - [More info](https://library.udel.edu/databases/kbr/)
+- [Key Business Ratios Archive](https://library.udel.edu/static/proxy.php?http://www.mergentarchives.com)
+  - [More info](https://library.udel.edu/databases/kbrarchive/)
+- [LexisNexis Academic](https://library.udel.edu/static/proxy.php?http://www.nexisuni.com)
+  - [More info](https://library.udel.edu/databases/nexisuni/)
+- [Market Research and American Business, 1935-1965](https://library.udel.edu/static/proxy.php?http://www.marketresearch.amdigital.co.uk/)
+  - [More info](https://library.udel.edu/databases/marketresearch/)
+- [Marketscope Advisor (S&P Global)](https://library.udel.edu/static/proxy.php?https://advisor.marketscope.com/)
+  - [More info](https://library.udel.edu/databases/marketscope/)
+- [Mergent Archives](https://library.udel.edu/static/proxy.php?http://www.mergentarchives.com/)
+  - [More info](https://library.udel.edu/databases/moodys/)
+- **[Mergent BondViewer](https://library.udel.edu/static/proxy.php?http://bv.mergent.com)**
+  - [More info](https://library.udel.edu/databases/bondviewer/)
+- [Mergent Equity Research Reports](https://library.udel.edu/static/proxy.php?http://www.MergentOnline.com)
+  - [More info](https://library.udel.edu/databases/mergent/)
+- [Mergent Intellect](https://library.udel.edu/static/proxy.php?http://www.mergentintellect.com/)
+  - [More info](https://library.udel.edu/databases/intellect/)
+- [Mergent Online](https://library.udel.edu/static/proxy.php?http://www.MergentOnline.com)
+  - [More info](https://library.udel.edu/databases/mergent/)
+- [NetAdvantage](https://library.udel.edu/static/proxy.php?https://advisor.marketscope.com/)
+- [(now Marketscope Advisor)](https://library.udel.edu/static/proxy.php?https://advisor.marketscope.com/)
+  - [More info](https://library.udel.edu/databases/marketscope/)
+- [Newspapers (ProQuest Historical)](https://library.udel.edu/static/proxy.php?https://library.udel.edu/databases/proquest-historical-newspapers/)
+  - [More info](https://library.udel.edu/databases/proquest-historical-newspapers/)
+- [Nexis Uni](https://library.udel.edu/static/proxy.php?http://www.nexisuni.com)
+  - [More info](https://library.udel.edu/databases/nexisuni/)
+- [OECD iLibrary](https://library.udel.edu/static/proxy.php?http://www.oecd-ilibrary.org/)
+  - [More info](https://library.udel.edu/databases/oecdilibrary/)
+- [Passport (Euromonitor)](https://udel.idm.oclc.org/login?url=http://www.portal.euromonitor.com/Portal/Default.aspx)
+  - [More info](https://library.udel.edu/databases/passport/)
+- [ProQuest Historical Newspapers](https://library.udel.edu/static/proxy.php?https://library.udel.edu/databases/proquest-historical-newspapers/)
+  - [More info](https://library.udel.edu/databases/proquest-historical-newspapers/)
+- [ProQuest Historical Newspapers: Black Newspapers](https://library.udel.edu/static/proxy.php?https://library.udel.edu/databases/pq_black_newspapers/)
+  - [More info](https://library.udel.edu/databases/pq_black_newspapers/)
+- [ReferenceUSA](https://library.udel.edu/static/proxy.php?http://www.referenceusa.com/Home/Home)
+  - [More info](https://library.udel.edu/databases/refusa/)
+- [Regional Business News](https://library.udel.edu/static/proxy.php?http://search.ebscohost.com/login.asp?profile=web&defaultdb=bwh)
+  - [More info](https://library.udel.edu/databases/rbn/)
+- [RIA Checkpoint](https://library.udel.edu/static/proxy.php?https://library.udel.edu/databases/checkpoint/)
+  - [More info](https://library.udel.edu/databases/checkpoint/)
+- **[Risk.net](https://library.udel.edu/static/proxy.php?http://www.risk.net/)**
+  - [More info](https://library.udel.edu/databases/risk/)
+- [Scopus](https://library.udel.edu/static/proxy.php?https://www.scopus.com)
+  - [More info](https://library.udel.edu/databases/scopus/)
+- [Small Business Collection](https://library.udel.edu/static/proxy.php?http://go.galegroup.com/ps/start.do?p=PPSB&u=udel_main&authCount=1)
+  - [More info](https://library.udel.edu/databases/onefile/)
+- [Social Sciences Citation Index](https://library.udel.edu/static/proxy.php?http://webofknowledge.com/WOS)
+  - [More info](https://library.udel.edu/databases/websci/)
+- [Springer eBooks](https://library.udel.edu/static/proxy.php?https://link.springer.com/)
+  - [More info](https://library.udel.edu/databases/springerebooks/)
+- [SpringerLink](https://library.udel.edu/static/proxy.php?https://link.springer.com/)
+  - [More info](https://library.udel.edu/databases/SpringerLink/)
+- [Standard & Poor's NetAdvantage (now Marketscope Advisor)](https://library.udel.edu/static/proxy.php?https://advisor.marketscope.com/)
+  - [More info](https://library.udel.edu/databases/marketscope/)
+- [Statista](https://library.udel.edu/static/proxy.php?https://www.statista.com/)
+  - [More info](https://library.udel.edu/databases/statista/)
+- [Trade Catalogues and the American Home](https://library.udel.edu/static/proxy.php?http://www.tradecatalogues.amdigital.co.uk/)
+  - [More info](https://library.udel.edu/databases/tradecatalogues/)
+- [Uniworld Online](https://library.udel.edu/static/proxy.php?https://uniworldonline.com/search)
+  - [More info](https://library.udel.edu/databases/uniworld/)
+- [USA Trade Online](https://library.udel.edu/databases/usatradeonline/)
+  - [More info](https://library.udel.edu/databases/usatradeonline/)
+- [Value Line Research Center](https://library.udel.edu/static/proxy.php?https://research.valueline.com/secure/research)
+  - [More info](https://library.udel.edu/databases/vlrc/)
+- [Wall Street Journal (ProQuest Historical)](https://library.udel.edu/static/proxy.php?http://search.proquest.com/hnpwallstreetjournal/advanced?accountid=10457)
+  - [More info](https://library.udel.edu/databases/wsj/)
+- [Wall Street Journal (WSJ.com)](https://library.udel.edu/databases/wsjdigital/)
+  - [More info](https://library.udel.edu/databases/wsjdigital/)
+- [Web of Science](https://library.udel.edu/static/proxy.php?http://www.webofknowledge.com/WOS)
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
