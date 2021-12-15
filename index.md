@@ -22,7 +22,7 @@
 ##### [UNEB](https://uneb.ac.ug/)
 - Individual licenses
 
-<br />
+
 #### [WRDS](https://wrds-www.wharton.upenn.edu/) (Wharton Research Data Services)[^1]
 - [Audit Analytics](https://wrds-www.wharton.upenn.edu/pages/get-data/audit-analytics/)
 - [Bank Regulatory](https://wrds-www.wharton.upenn.edu/pages/get-data/bank-regulatory/)
@@ -56,8 +56,6 @@
 - [WRDS European Short Data](https://wrds-www.wharton.upenn.edu/pages/get-data/wrds-european-short-data/)
 - [WRDS Factors](https://wrds-www.wharton.upenn.edu/pages/get-data/wrds-factors/)
 - [WRDS US Patents](https://wrds-www.wharton.upenn.edu/pages/get-data/wrds-us-patents/)
-
-<br /><br />
 
 
 
