@@ -31,7 +31,7 @@ title: "Finance Research Databases"
 
 <br/>
 
-#### [WRDS](https://wrds-www.wharton.upenn.edu/) (Wharton Research Data Services)[^1]
+### [WRDS](https://wrds-www.wharton.upenn.edu/) (Wharton Research Data Services)[^1]
 - [Audit Analytics](https://wrds-www.wharton.upenn.edu/pages/get-data/audit-analytics/)
 - [Bank Regulatory](https://wrds-www.wharton.upenn.edu/pages/get-data/bank-regulatory/)
 - [Blockholders](https://wrds-www.wharton.upenn.edu/pages/get-data/blockholders/)
@@ -69,7 +69,7 @@ title: "Finance Research Databases"
 
 <br/>
 
-#### [University of Delaware Library](https://library.udel.edu/)
+### [University of Delaware Library](https://library.udel.edu/)
 - [BI/INFORM Global](https://library.udel.edu/static/proxy.php?http://search.proquest.com/abiglobal/advanced?accountid=10457)
   - [More info](https://library.udel.edu/databases/abi/)
 - [Business Collection](https://library.udel.edu/static/proxy.php?http://go.galegroup.com/ps/start.do?p=ITBC&u=udel_main&authCount=1)
