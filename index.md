@@ -34,7 +34,7 @@ title: "Finance Research Databases"
 ##### [UNEB](https://uneb.ac.ug/)
 - Individual licenses
 
-<br/><br/>
+<br/>
 
 #### [WRDS](https://wrds-www.wharton.upenn.edu/) (Wharton Research Data Services)[^1]
 - [Audit Analytics](https://wrds-www.wharton.upenn.edu/pages/get-data/audit-analytics/)
@@ -70,11 +70,9 @@ title: "Finance Research Databases"
 - [WRDS Factors](https://wrds-www.wharton.upenn.edu/pages/get-data/wrds-factors/)
 - [WRDS US Patents](https://wrds-www.wharton.upenn.edu/pages/get-data/wrds-us-patents/)
 
-
-
 [^1]: The list below has some services that supply multiple databases. For example, WRDS has about 30 different sections, some of which are listed separately (e.g., CRSP) and others that are not, but are paid for under other subscriptions (e.g. Dow Jones, CBOE Indexes, 13F).
 
-<br/><br/>
+<br/>
 
 #### [University of Delaware Library](https://library.udel.edu/)
 - [BI/INFORM Global](https://library.udel.edu/static/proxy.php?http://search.proquest.com/abiglobal/advanced?accountid=10457)
