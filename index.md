@@ -1,6 +1,8 @@
 ### Department of Finance Research Databases  
   Lerner College of Business & Economics University of Delaware
 
+---
+
 <br/><br/>
 
 ##### [S&P Capital IQ](https://www.capitaliq.com) 
