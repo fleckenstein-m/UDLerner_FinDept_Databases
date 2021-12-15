@@ -2,11 +2,6 @@
 title: "Finance Research Databases"
 ---
 
-### University of Delaware, Lerner College of Business & Economics
-### Department of Finance Research Databases  
-
----
-
 ##### [S&P Capital IQ](https://www.capitaliq.com) 
 - Finance Department Laptop, Trading Center
 
