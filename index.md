@@ -1,7 +1,9 @@
 ## Research Databases
 #### University of Delaware, Lerner College of Business And Economics
 #### Department of Finance
+#### 
 
+<br/><br/>
 
 ##### [S&P Capital IQ](https://www.capitaliq.com) 
 - Finance Department Laptop, Trading Center
@@ -30,6 +32,7 @@
 ##### [UNEB](https://uneb.ac.ug/)
 - Individual licenses
 
+<br/><br/>
 
 #### [WRDS](https://wrds-www.wharton.upenn.edu/) (Wharton Research Data Services)[^1]
 - [Audit Analytics](https://wrds-www.wharton.upenn.edu/pages/get-data/audit-analytics/)
