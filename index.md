@@ -2,17 +2,8 @@
 title: "Finance Research Databases"
 ---
 
-### [S&P Capital IQ](https://www.capitaliq.com) 
-- Finance Department Laptop, Trading Center
-
-### [SDC – New Issues and Mergers & Acquisitions](https://www.refinitiv.com/en/products/sdc-platinum-financial-securities)
-- Finance Department Laptop, Trading Center
-
 ### [Bloomberg](https://www.bloomberg.com) 
 - Finance Department Laptop, Trading Center
-
-### [Bloomberg BNA/Bloomberg Law](https://pro.bloomberglaw.com/request-demo-legal-research/?trackingcode=BLAW206632&utm_medium=paidsearch&utm_source=google&gclid=EAIaIQobChMI8NiH75rm9AIVBuXjBx0SeQriEAAYASAAEgL4A_D_BwE&gclsrc=aw.ds) 
-- Trading Center, 026 Purnell Lab
 
 ### [Factset](https://www.factset.com/)
 - Trading Center
@@ -20,11 +11,11 @@ title: "Finance Research Databases"
 ### [Ravenpack](https://www.ravenpack.com/) 
 - Individual licenses
 
-### [Reuters Eikon/Datastream](https://eikon.thomsonreuters.com/index.html) 
-- Finance Department Laptop
+### [SDC – New Issues and Mergers & Acquisitions](https://www.refinitiv.com/en/products/sdc-platinum-financial-securities)
+- Finance Department Laptop, Trading Center
 
-### [Reuters Datastream (via Reuters Refinitiv)](https://www.refinitiv.com/en/products/datastream-macroeconomic-analysis) 
-- Finance Department Laptop
+### [S&P Capital IQ](https://www.capitaliq.com) 
+- Finance Department Laptop, Trading Center
 
 ### [UNEB](https://uneb.ac.ug/)
 - Individual licenses
@@ -34,36 +25,42 @@ title: "Finance Research Databases"
 ### [WRDS](https://wrds-www.wharton.upenn.edu/) (Wharton Research Data Services)[^1]
 - [Audit Analytics](https://wrds-www.wharton.upenn.edu/pages/get-data/audit-analytics/)
 - [Bank Regulatory](https://wrds-www.wharton.upenn.edu/pages/get-data/bank-regulatory/)
+- [Beta Suite by WRDS](https://wrds-www.wharton.upenn.edu/pages/get-data/beta-suite-wrds/)
 - [Blockholders](https://wrds-www.wharton.upenn.edu/pages/get-data/blockholders/)
 - [CBOE Indexes](https://wrds-www.wharton.upenn.edu/pages/get-data/cboe-indexes/)
 - [Compustat - Capital IQ](https://wrds-www.wharton.upenn.edu/pages/get-data/compustat-capital-iq-standard-poors/)
 - [CRSP](https://wrds-www.wharton.upenn.edu/pages/get-data/center-research-security-prices-crsp/)
+- [Contributed Data at WRDS](https://wrds-www.wharton.upenn.edu/pages/get-data/contributed-data-at-wrds/)
 - [DMEF Academic Data](https://wrds-www.wharton.upenn.edu/pages/get-data/direct-marketing-educational-foundation-dmef/)
+- [Efficient Frontier by WRDS](https://wrds-www.wharton.upenn.edu/pages/get-data/efficient-frontier-wrds/)
+- [European Short Data by WRDS](https://wrds-www.wharton.upenn.edu/pages/get-data/wrds-european-short-data/)
+- [Event Study by WRDS](https://wrds-www.wharton.upenn.edu/pages/get-data/event-study-wrds/)
+- [Factors by WRDS](https://wrds-www.wharton.upenn.edu/pages/get-data/wrds-factors/)
 - [Fama-French Portfolios and Factors](https://wrds-www.wharton.upenn.edu/pages/get-data/fama-french-portfolios-and-factors/)
 - [Federal Judicial Center](https://wrds-www.wharton.upenn.edu/pages/get-data/federal-judicial-center/)
 - [Federal Reserve Bank Reports](https://wrds-www.wharton.upenn.edu/pages/get-data/federal-reserve-bank-reports/)
+- [Financial Ratios Suite by WRDS](https://wrds-www.wharton.upenn.edu/pages/get-data/financial-ratios-suite-wrds/)
 - [Historical S&P/ Dow Jones Indices](https://wrds-www.wharton.upenn.edu/pages/get-data/dow-jones-averages-total-return-indexes/)
 - [Information Resources, Inc. (IRI)](https://wrds-www.wharton.upenn.edu/pages/get-data/information-resources-inc/)
+- [Institutional (13f) Holdings - S34](https://wrds-www.wharton.upenn.edu/pages/get-data/thomson-reuters/institutional-13f-holdings-s34/)
+- [Intraday Indicators by WRDS](https://wrds-www.wharton.upenn.edu/pages/get-data/intraday-indicators-wrds/)
+- [Linking Suite by WRDS](https://wrds-www.wharton.upenn.edu/pages/get-data/linking-suite-wrds/)
 - [Macro Finance Society](https://wrds-www.wharton.upenn.edu/pages/get-data/macro-finance-society/)
 - [MSRB (Municipal Securities Rulemaking Board)](https://wrds-www.wharton.upenn.edu/pages/get-data/msrb-municipal-securities-rulemaking-board/)
+- [NYSE Trade and Quote (TAQ) Database](https://wrds-www.wharton.upenn.edu/pages/get-data/nyse-trade-and-quote/)
 - [OTC Markets](https://wrds-www.wharton.upenn.edu/pages/get-data/otc-markets/)
 - [Penn World Tables](https://wrds-www.wharton.upenn.edu/pages/get-data/penn-world-tables/)
 - [Peters and Taylor Total Q](https://wrds-www.wharton.upenn.edu/pages/get-data/peters-and-taylor-total-q/)
 - [Philadelphia Stock Exchange (PHLX)](https://wrds-www.wharton.upenn.edu/pages/get-data/philadelphia-stock-exchange-phlx/)
 - [Research Quotient](https://wrds-www.wharton.upenn.edu/pages/get-data/research-quotient/)
 - [SEC Order Execution](https://wrds-www.wharton.upenn.edu/pages/get-data/sec-mandated-disclosure-order-execution-statistics/)
-- [NYSE Trade and Quote (TAQ) Database](https://wrds-www.wharton.upenn.edu/pages/get-data/nyse-trade-and-quote/)
-- [WRDS-Reuters DealScan](https://wrds-www.wharton.upenn.edu/pages/get-data/thomson-reuters/wrds-reuters-dealscan/)
-- [Institutional (13f) Holdings - S34](https://wrds-www.wharton.upenn.edu/pages/get-data/thomson-reuters/institutional-13f-holdings-s34/)
-- [TRACE](https://wrds-www.wharton.upenn.edu/pages/get-data/otc-corporate-bond-and-agency-debt-bond-transaction-data/)
-- [Beta Suite by WRDS](https://wrds-www.wharton.upenn.edu/pages/get-data/beta-suite-wrds/)
-- [Efficient Frontier by WRDS](https://wrds-www.wharton.upenn.edu/pages/get-data/efficient-frontier-wrds/)
-- [Financial Ratios Suite by WRDS](https://wrds-www.wharton.upenn.edu/pages/get-data/financial-ratios-suite-wrds/)
-- [Intraday Indicators by WRDS](https://wrds-www.wharton.upenn.edu/pages/get-data/intraday-indicators-wrds/)
 - [Subsidiary Data by WRDS](https://wrds-www.wharton.upenn.edu/pages/get-data/subsidiary-data-wrds/)
-- [WRDS European Short Data](https://wrds-www.wharton.upenn.edu/pages/get-data/wrds-european-short-data/)
-- [WRDS Factors](https://wrds-www.wharton.upenn.edu/pages/get-data/wrds-factors/)
-- [WRDS US Patents](https://wrds-www.wharton.upenn.edu/pages/get-data/wrds-us-patents/)
+- [TRACE](https://wrds-www.wharton.upenn.edu/pages/get-data/otc-corporate-bond-and-agency-debt-bond-transaction-data/)
+- [Thomson/Refinitiv Datastream](https://wrds-www.wharton.upenn.edu/pages/get-data/thomson-reuters/datastream//)
+- [Thomson/Refinitiv DealScan](https://wrds-www.wharton.upenn.edu/pages/get-data/thomson-reuters/wrds-reuters-dealscan//)
+- [Thomson/Refinitiv Institutional Holdings](https://wrds-www.wharton.upenn.edu/pages/get-data/thomson-reuters/institutional-13f-holdings-s34/)
+- [Thomson/Refinitiv Worldscope](https://wrds-www.wharton.upenn.edu/pages/get-data/thomson-reuters/worldscope/)
+- [US Patents by WRDS](https://wrds-www.wharton.upenn.edu/pages/get-data/wrds-us-patents/)
 
 [^1]: The list below has some services that supply multiple databases. For example, WRDS has about 30 different sections, some of which are listed separately (e.g., CRSP) and others that are not, but are paid for under other subscriptions (e.g. Dow Jones, CBOE Indexes, 13F).
 
