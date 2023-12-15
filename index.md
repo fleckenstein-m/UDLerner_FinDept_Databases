@@ -29,7 +29,7 @@ title: "Finance Research Databases"
 - [Bank Regulatory](https://wrds-www.wharton.upenn.edu/pages/get-data/bank-regulatory/)
 - [Beta Suite by WRDS](https://wrds-www.wharton.upenn.edu/pages/get-data/beta-suite-wrds/)
 - [Blockholders](https://wrds-www.wharton.upenn.edu/pages/get-data/blockholders/)
-- [CBOE Indexes](https://wrds-www.wharton.upenn.edu/pages/get-data/cboe-indexes/)
+- [CBOE Options/Indexes](https://wrds-www.wharton.upenn.edu/pages/get-data/cboe-indexes/)
 - [Compustat - Capital IQ](https://wrds-www.wharton.upenn.edu/pages/get-data/compustat-capital-iq-standard-poors/)
 - [CRSP](https://wrds-www.wharton.upenn.edu/pages/get-data/center-research-security-prices-crsp/)
 - [Contributed Data at WRDS](https://wrds-www.wharton.upenn.edu/pages/get-data/contributed-data-at-wrds/)
@@ -44,14 +44,13 @@ title: "Finance Research Databases"
 - [Financial Ratios Suite by WRDS](https://wrds-www.wharton.upenn.edu/pages/get-data/financial-ratios-suite-wrds/)
 - [Historical S&P/ Dow Jones Indices](https://wrds-www.wharton.upenn.edu/pages/get-data/dow-jones-averages-total-return-indexes/)
 - [Information Resources, Inc. (IRI)](https://wrds-www.wharton.upenn.edu/pages/get-data/information-resources-inc/)
-- [Institutional (13f) Holdings - S34](https://wrds-www.wharton.upenn.edu/pages/get-data/thomson-reuters/institutional-13f-holdings-s34/)
 - [Intraday Indicators by WRDS](https://wrds-www.wharton.upenn.edu/pages/get-data/intraday-indicators-wrds/)
 - [Linking Suite by WRDS](https://wrds-www.wharton.upenn.edu/pages/get-data/linking-suite-wrds/)
 - [Macro Finance Society](https://wrds-www.wharton.upenn.edu/pages/get-data/macro-finance-society/)
 - [MSRB (Municipal Securities Rulemaking Board)](https://wrds-www.wharton.upenn.edu/pages/get-data/msrb-municipal-securities-rulemaking-board/)
 - [NYSE Trade and Quote (TAQ) Database](https://wrds-www.wharton.upenn.edu/pages/get-data/nyse-trade-and-quote/)
 - [OTC Markets](https://wrds-www.wharton.upenn.edu/pages/get-data/otc-markets/)
-- [Penn World Tables](https://wrds-www.wharton.upenn.edu/pages/get-data/penn-world-tables/)
+- [Pastor-Stambaugh and Other Liquidity Factors](https://wrds-www.wharton.upenn.edu/pages/get-data/pastor-stambaugh-and-other-liquidity-factors/)
 - [Peters and Taylor Total Q](https://wrds-www.wharton.upenn.edu/pages/get-data/peters-and-taylor-total-q/)
 - [Philadelphia Stock Exchange (PHLX)](https://wrds-www.wharton.upenn.edu/pages/get-data/philadelphia-stock-exchange-phlx/)
 - [Research Quotient](https://wrds-www.wharton.upenn.edu/pages/get-data/research-quotient/)
@@ -59,12 +58,12 @@ title: "Finance Research Databases"
 - [Subsidiary Data by WRDS](https://wrds-www.wharton.upenn.edu/pages/get-data/subsidiary-data-wrds/)
 - [TRACE](https://wrds-www.wharton.upenn.edu/pages/get-data/otc-corporate-bond-and-agency-debt-bond-transaction-data/)
 - [Thomson/Refinitiv Datastream](https://wrds-www.wharton.upenn.edu/pages/get-data/thomson-reuters/datastream//)
-- [Thomson/Refinitiv DealScan](https://wrds-www.wharton.upenn.edu/pages/get-data/thomson-reuters/wrds-reuters-dealscan//)
-- [Thomson/Refinitiv Institutional Holdings](https://wrds-www.wharton.upenn.edu/pages/get-data/thomson-reuters/institutional-13f-holdings-s34/)
+- [Thomson/Refinitiv DealScan](https://wrds-www.wharton.upenn.edu/pages/get-data/thomson-reuters/wrds-reuters-dealscan/)
+- [Thomson/Refinitiv SDC Deals](https://wrds-www.wharton.upenn.edu/pages/get-data/thomson-reuters/sdc/)
 - [Thomson/Refinitiv Worldscope](https://wrds-www.wharton.upenn.edu/pages/get-data/thomson-reuters/worldscope/)
 - [US Patents by WRDS](https://wrds-www.wharton.upenn.edu/pages/get-data/wrds-us-patents/)
 
-[^1]: The list below has some services that supply multiple databases. For example, WRDS has about 30 different sections, some of which are listed separately (e.g., CRSP) and others that are not, but are paid for under other subscriptions (e.g. Dow Jones, CBOE Indexes, 13F).
+[^1]: The list below has some services that supply multiple databases. For example, WRDS has about 30 different sections, some of which are listed separately (e.g., CRSP) and others that are not, but are paid for under other subscriptions (e.g., Dow Jones, CBOE Indexes).
 
 <br/>
 
