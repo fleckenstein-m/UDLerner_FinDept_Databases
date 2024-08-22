@@ -11,9 +11,6 @@ title: "Finance Research Databases"
 ### [Ravenpack](https://www.ravenpack.com/) 
 - Individual licenses
 
-### 
-- Finance Department Laptop, Trading Center
-
 ### [S&P Capital IQ](https://www.capitaliq.com) 
 - Finance Department Laptop, Trading Center
 
