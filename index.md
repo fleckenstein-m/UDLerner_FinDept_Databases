@@ -11,7 +11,7 @@ title: "Finance Research Databases"
 ### [Ravenpack](https://www.ravenpack.com/) 
 - Individual licenses
 
-### [SDC – New Issues and Mergers & Acquisitions](https://www.refinitiv.com/en/products/sdc-platinum-financial-securities)
+### 
 - Finance Department Laptop, Trading Center
 
 ### [S&P Capital IQ](https://www.capitaliq.com) 
@@ -51,6 +51,7 @@ title: "Finance Research Databases"
 - [Peters and Taylor Total Q](https://wrds-www.wharton.upenn.edu/pages/get-data/peters-and-taylor-total-q/)
 - [Philadelphia Stock Exchange (PHLX)](https://wrds-www.wharton.upenn.edu/pages/get-data/philadelphia-stock-exchange-phlx/)
 - [Research Quotient](https://wrds-www.wharton.upenn.edu/pages/get-data/research-quotient/)
+- [SDC – New Issues and Mergers & Acquisitions](https://wrds-www.wharton.upenn.edu/pages/get-data/thomson-reuters/sdc/)
 - [SEC Order Execution](https://wrds-www.wharton.upenn.edu/pages/get-data/sec-mandated-disclosure-order-execution-statistics/)
 - [Subsidiary Data by WRDS](https://wrds-www.wharton.upenn.edu/pages/get-data/subsidiary-data-wrds/)
 - [TRACE](https://wrds-www.wharton.upenn.edu/pages/get-data/otc-corporate-bond-and-agency-debt-bond-transaction-data/)
@@ -60,7 +61,7 @@ title: "Finance Research Databases"
 - [Thomson/Refinitiv Worldscope](https://wrds-www.wharton.upenn.edu/pages/get-data/thomson-reuters/worldscope/)
 - [US Patents by WRDS](https://wrds-www.wharton.upenn.edu/pages/get-data/wrds-us-patents/)
 
-[^1]: The list below has some services that supply multiple databases. For example, WRDS has about 30 different sections, some of which are listed separately (e.g., CRSP) and others that are not, but are paid for under other subscriptions (e.g., Dow Jones, CBOE Indexes).
+[^1]: As of August, 2024. The list below has some services that supply multiple databases. For example, WRDS has about 30 different sections, some of which are listed separately (e.g., CRSP) and others that are not, but are paid for under other subscriptions (e.g., Dow Jones, CBOE Indexes).
 
 <br/>
 
