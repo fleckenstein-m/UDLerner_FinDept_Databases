@@ -8,6 +8,9 @@ title: "Finance Research Databases"
 ### [Factset](https://www.factset.com/)
 - Trading Center
 
+### [OptionsMetrics](https://optionmetrics.com/)
+- FTP access
+
 ### [Ravenpack](https://www.ravenpack.com/) 
 - Individual licenses
 
