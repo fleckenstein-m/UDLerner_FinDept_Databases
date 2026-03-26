@@ -9,6 +9,7 @@ title: "Finance Research Databases"
 - Trading Center
 
 ### [S&P Capital IQ Pro](https://www.spglobal.com/market-intelligence/en/solutions/products/sp-capital-iq-pro) 
+- Industry-Specific Modules: Banks, Thrifts, Insurance, and Financial Services 
 - Finance Department Laptop
 
 
@@ -45,6 +46,7 @@ title: "Finance Research Databases"
 - [Philadelphia Stock Exchange (PHLX)](https://wrds-www.wharton.upenn.edu/pages/get-data/philadelphia-stock-exchange-phlx/)
 - [Public Data](https://wrds-www.wharton.upenn.edu/pages/get-data/public-data/)
 - [Research Quotient](https://wrds-www.wharton.upenn.edu/pages/get-data/research-quotient/)
+- [SDC – New Issues and Mergers & Acquisitions](https://wrds-www.wharton.upenn.edu/pages/get-data/thomson-reuters/sdc/)
 - [SEC Order Execution](https://wrds-www.wharton.upenn.edu/pages/get-data/sec-mandated-disclosure-order-execution-statistics/)
 - [Subsidiary Data by WRDS](https://wrds-www.wharton.upenn.edu/pages/get-data/subsidiary-data-wrds/)
 - [Thomson / Refinitiv](https://wrds-www.wharton.upenn.edu/pages/get-data/thomson-refinitiv-temp/)
